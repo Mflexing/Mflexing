@@ -4,7 +4,7 @@
 
 Sou um Estudante/desenvolvedor apaixonado por tecnologia e games.
 
-- 🔭 **Graduando em Sistemas de informação / Programador FullStack**
+- 🔭 **Graduando em Sistemas de informação**
 - 🌱 Aprendendo mais sobre **PHP, Javascript, Typescript**
 
 ## Tecnologias e Ferramentas
